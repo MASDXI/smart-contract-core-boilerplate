@@ -1,4 +1,4 @@
-# smart-contract-core-boilerplate
+# hardhat-boilerplate
 for installing this project.
 ``` bash
 $ npm install
